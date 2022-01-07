@@ -4,3 +4,4 @@ insert version2
 insert version3
 insert in the branch version1
 insert in the master version4(conflict)
+insert in the hot-fix version2
